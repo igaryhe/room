@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
  
 [ExecuteInEditMode]
+[RequireComponent(typeof(Camera))]
 public class CustomImageEffect : MonoBehaviour {
  
     public Material material;

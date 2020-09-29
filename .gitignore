@@ -220,3 +220,5 @@ InitTestScene*.unity
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains,rider,unity
 Assets/Fungus
 Assets/Fungus.meta
+Assets/Kino
+Assets/Kino.meta

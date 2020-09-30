@@ -1,0 +1,11 @@
+This is the game made as an assignment for Game Studio I at [[https://gamecenter.nyu.edu/][NYU Game Center]]. Play it at [[https://igaryhe.itch.io/a-white-room/][itch.io]].
+* Build
+** Requirements
+Besides the code, make sure you have these packages imported:
+- [[https://github.com/snozbot/fungus][Fungus]]
+- [[https://github.com/keijiro/KinoGlitch][KinoGlitch]]
+
+** Acknowledgement
+- Music: [[https://secretpress.bandcamp.com/track/ongoing-cases][Blear Moon - Ongoing cases]], from split by Cape Willoughby Road & Blear Moon
+- SFX: Generated using [[https://rxi.itch.io/sfxia][Sfxia]], made by RXI
+- Font: [[https://design.ubuntu.com/font/][Ubuntu font]], also a handwritten one made using [[https://www.calligraphr.com/][Calligraphr]]

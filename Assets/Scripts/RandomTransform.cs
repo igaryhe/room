@@ -12,7 +12,7 @@ public class RandomTransform : Command
     public override void OnEnter()
     {
         var rnd = new Random();
-        obj.transform.localPosition = new Vector3(Random.Range(-1f, 1f), Random.Range(-1f, 1f), obj.transform.localPosition.z);
+        obj.transform.localPosition = new Vector3(Random.Range(-4.8f, 4.8f), Random.Range(-4.8f, 4.8f), obj.transform.localPosition.z);
         Continue();
     }
 

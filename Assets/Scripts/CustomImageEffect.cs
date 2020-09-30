@@ -8,7 +8,7 @@ public class CustomImageEffect : MonoBehaviour {
 
     private void Awake()
     {
-        gameObject.GetComponent<Camera>().depthTextureMode = DepthTextureMode.DepthNormals;
+        GetComponent<Camera>().depthTextureMode = DepthTextureMode.DepthNormals;
     }
 
     private void OnRenderImage(RenderTexture src, RenderTexture dest) {
